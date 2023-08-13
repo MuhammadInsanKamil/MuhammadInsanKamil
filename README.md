@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Muhammad Insan Kamil**.
+
+Saya seorang **Mahasiswa Informatika** di [Institut Teknologi Kalimantan](https://itk.ac.id/).
 
 <!--
 **MuhammadInsanKamil/MuhammadInsanKamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
